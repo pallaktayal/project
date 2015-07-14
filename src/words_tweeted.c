@@ -9,7 +9,7 @@
 #include <stdio.h>
 #include <string.h>
 
-void main()
+int main()
 {
     char arr1[400][100], arr2[400][100];
     int freq1[400], freq2[400],tf;
